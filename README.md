@@ -17,6 +17,8 @@ appium-doctor should return no errors/warnings
 
 `appium-doctor`
 
+how to install node without sudo: `https://stackoverflow.com/a/31046037`
+
 Run appiun server and make sure it's runnning on http://localhost:4723
 
 `appium`
